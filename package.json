@@ -1,0 +1,18 @@
+{
+  "name": "elecrypt",
+  "version": "2.3.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kub_luk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KubLuk24/elecrypt/issues"
+  },
+  "homepage": "https://elementbot.net/",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
